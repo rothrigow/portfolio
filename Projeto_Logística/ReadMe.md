@@ -1,4 +1,4 @@
-#Projeto de Logística
+$Projeto de Logística$
 
 Projeto de análise de dados de planilha do tipo .xlsx disponibilizada no kaggle com o nome "Banco de dados Logistica", disponível no link: https://www.kaggle.com/datasets/gabrielricardoq/banco-de-dados-logistica
 
